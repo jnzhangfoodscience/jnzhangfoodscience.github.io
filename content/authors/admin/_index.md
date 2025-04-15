@@ -94,9 +94,13 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Exploring the integration of AI and computational modeling in sustainable food systems, with a current focus on plant-based meat structuring.
+      - Initiated work on physics-informed neural networks (PINNs) to enhance the prediction of plant protein textural properties during processing
+      - Applied FEA, CFD and soft matter physics to simulate food material behavior under thermo-mechanical processing, supporting rational design of fibrous textures in meat analogs.
+      - Contributing to AI-based screening of bioactive compounds for clean-label food preservation.
+      - Investigated techno-economic and societal aspects of food loss and waste (FLW) reduction, with emphasis on converting underutilized biomass and side streams into valuable protein-rich ingredients. 
+
+
   - position: Postdoctoral Researcher
     company_name: Chalmers University of Technology 
     company_url: ''
@@ -105,9 +109,9 @@ work:
     date_end: 2024-04-09
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Led research on the gelation and structuring of protein isolates derived from herring and salmon by-products, incorporating natural antioxidants from food side streams and seaweeds during extraction.
+      - Applied rheological and textural analyses to elucidate structure–function relationships within the resulting protein gel networks.
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -130,10 +134,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Crystal Craft
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 100
+        icon: diamond
       - name: Cats
         description: ''
         percent: 100
@@ -143,46 +147,39 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Honor Student Award
+    date: '2023-05-02'
+    awarder: American Oil Chemists' Society (AOCS)
+    icon: drop
+    summary: The Honored Student Award acknowledges Jingnan's exceptional readiness for a career in the fats and oils field, encompassing various aspects such as research, academic coursework, publications, and personal experience.
+      
+  - title: Student Award of Travel Grant
+    date: '2022-04-30'
+    awarder: American Oil Chemists' Society (AOCS)
+    icon: travel
+    summary: The Student Travel Grant assists Jingnan in presenting her work at the AOCS Annual Meeting and encourages Jingnan's participation in the Lipid Oxidation and Quality Division and Society, fostering collaboration and knowledge advancement.
+
+  - title: Holland Scholarship
+    date: '2016-05-01'
+    awarder: Dutch Ministry of Education
+    icon: tulip
+    summary: 5000 EURO scholarship. 
+
+  - title: Cargill Global Scholarship
+    date: '2013-06-01'
+    awarder: Cargill & Institute of International Education (IIE)
+    icon: earth
+    summary: 1,250 USD per year (2013 – 2016). Included a 2-year mentorship program and leadership training workshop in Shanghai, China, and at Cargill’s global headquarters in Minneapolis, USA.
+     
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jingnan Zhang is a Researcher in Food Science and Technology at HZAU. Her work focuses on computational methodologies grounded in soft matter physics to advance the development of plant-based meat analogs. She also workes on the valorization of food by-products, aiming to drive sustainable and resource-efficient advancements in the food industry. 
