@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Jingnan Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jingnan
+last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍎
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,87 +17,92 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Huazhong Agricultural University
+    url: https://en.hzau.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jingnan.zhang801@outlook.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jnzhangfoodscience
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=UF9ZlroAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4865-5212
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Food Mechanics
+  - Artificial Intelligence in Food Science & Technology
+  - Plant-Based Meat Analogs
+  - Soft Matter Physics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Food and Nutrition Science
+    institution: Chalmers University of Technology 🇸🇪
+    date_start: 2019-05-16
+    date_end: 2023-06-14
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Focusing on valorization of functional protein ingredients from food side streams. 
+      Published 8 journals papers in Food Chemistry, Food Chemistry:X and Future Foods.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      text: 'Google Scholar'
+      url: 'https://scholar.google.com/citations?user=UF9ZlroAAAAJ&hl=en'
+  - area: MSc Food Technology
+    institution: Wageningen University 🇳🇱
+    date_start: 2016-08-23
+    date_end: 2018-06-18
+    summary: European Master in Food Studies Program (EMFS). 🇳🇱🇮🇪🇫🇷🇸🇪
+    button:
+      text: 'EMFS Program'
+      url: 'https://www.eurmscfood.nl/about'
+      GPA: 7.5/10.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Food Ingredient Functionality
+      - Advanced Food Physics
+      - Food Strcuturing
+  - area: BEng Food Science and Engineering
+    institution: China Agricultural University 🇨🇳
+    date_start: 2012-09-01
+    date_end: 2016-06-16
     summary: |
-      GPA: 3.4/4.0
+      GPA: 88/100
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Food Chemistry
+      - Food Microbiology
+      - Food Engineering
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Researcher
+    company_name: Huazhong Agricultural University 🇨🇳
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-04-10
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Postdoctoral Researcher
+    company_name: Chalmers University of Technology 🇸🇪
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-06-15
+    date_end: 2024-04-09
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
