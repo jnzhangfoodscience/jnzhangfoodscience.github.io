@@ -8,7 +8,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: 🍎
+  icon: 🏖️
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,7 +51,7 @@ interests:
 
 education:
   - area: PhD Food and Nutrition Science
-    institution: Chalmers University of Technology 🇸🇪
+    institution: Chalmers University of Technology (Sweden)
     date_start: 2019-05-16
     date_end: 2023-06-14
     summary: |
@@ -61,10 +61,10 @@ education:
       text: 'Google Scholar'
       url: 'https://scholar.google.com/citations?user=UF9ZlroAAAAJ&hl=en'
   - area: MSc Food Technology
-    institution: Wageningen University 🇳🇱
+    institution: Wageningen University (Netherlands)
     date_start: 2016-08-23
     date_end: 2018-06-18
-    summary: European Master in Food Studies Program (EMFS). 🇳🇱🇮🇪🇫🇷🇸🇪
+    summary: European Master in Food Studies Program (EMFS).
     button:
       text: 'EMFS Program'
       url: 'https://www.eurmscfood.nl/about'
@@ -75,7 +75,7 @@ education:
       - Advanced Food Physics
       - Food Strcuturing
   - area: BEng Food Science and Engineering
-    institution: China Agricultural University 🇨🇳
+    institution: China Agricultural University (China)
     date_start: 2012-09-01
     date_end: 2016-06-16
     summary: |
@@ -87,7 +87,7 @@ education:
       - Food Engineering
 work:
   - position: Researcher
-    company_name: Huazhong Agricultural University 🇨🇳
+    company_name: Huazhong Agricultural University 
     company_url: ''
     company_logo: ''
     date_start: 2024-04-10
@@ -98,7 +98,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Postdoctoral Researcher
-    company_name: Chalmers University of Technology 🇸🇪
+    company_name: Chalmers University of Technology 
     company_url: ''
     company_logo: ''
     date_start: 2023-06-15
