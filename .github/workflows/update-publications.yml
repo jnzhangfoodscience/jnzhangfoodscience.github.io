@@ -2,8 +2,8 @@ name: Auto Update Publications from Google Scholar
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # 每天凌晨3点自动运行
-  workflow_dispatch:      # 允许手动触发
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,6 +12,7 @@ permissions:
 jobs:
   update-publications:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -37,3 +38,4 @@ jobs:
           base: main
           branch: auto/update-publications
           delete-branch: true
+
