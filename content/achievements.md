@@ -19,7 +19,7 @@ sections:
       is_education_first: false
       css_class: container
 
-  - block: blank
+  - block: spacer
     design:
       css_class: border-t border-gray-300 my-8
 
