@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Talks'
 date: 2025-04-29
 type: landing
 
@@ -11,10 +11,10 @@ design:
 sections:
   - block: collection
     content:
-      title: Research Projects
+      title: Talks
       filters:
         folders:
-          - project
+          - event
     design:
       view: article-grid
       fill_image: true

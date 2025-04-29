@@ -66,9 +66,6 @@ work:
     company_logo: media/hzau_logo.svg
     date_start: 2024-04-10
     date_end: null
-    button:
-      text: 'Google Scholar'
-      url: 'https://scholar.google.com/citations?user=UF9ZlroAAAAJ&hl=en'
 
   - position: Postdoctoral Researcher
     company_name: Chalmers University of Technology 

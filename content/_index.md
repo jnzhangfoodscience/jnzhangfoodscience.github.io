@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-04-15
+date: 2025-04-29
 type: landing
 
 design:
@@ -32,14 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a researcher in Food Science and Technology with a strong interest in the use of computational modeling and soft matter physics to address challenges in sustainable food design. My current work focuses on the structure-function relationships of plant-based meat analogs and the valorization of underutilized food by-products.
         
-        Please reach out to collaborate 😃
+        Methodologically, I combine physics-based simulations (e.g., FEA, CFD) with data-driven techniques to gain mechanistic insights into food material behavior. This integrated approach supports the rational design of novel food structures and the optimization of processes for improved sustainability and functionality.
+        
+        My broader research vision lies in advancing a materials-science-informed framework for food innovation—one that is rigorous, interdisciplinary, and closely connected to industrial relevance.
+        
+        I am always open to academic collaborations across food physics, soft matter, computational modeling, and circular bioeconomy. Please feel free to get in touch. 😃
     design:
       columns: '1'
   - block: collection
@@ -54,29 +56,20 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
         folders:
           - event
+        featured_only: true  
     design:
       view: article-grid
       columns: 1
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
