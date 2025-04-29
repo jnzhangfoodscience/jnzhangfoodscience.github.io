@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: TBD
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: null
+event_url: null
 
-location: Hugo Blox Builder HQ
+location: null
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: null
+  city: null
+  region: null
+  postcode: null
+  country: null
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: null
+abstract: null
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

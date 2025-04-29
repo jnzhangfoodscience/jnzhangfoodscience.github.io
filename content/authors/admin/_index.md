@@ -63,7 +63,7 @@ work:
   - position: Researcher
     company_name: Huazhong Agricultural University 
     company_url: https://en.hzau.edu.cn/
-    company_logo: assets/media/icons/HZAU_logo.svg
+    company_logo: assets/media/icons/hzau_logo.svg
     date_start: 2024-04-10
     date_end: null
     button:
@@ -78,42 +78,6 @@ work:
     date_end: 2024-04-09
       
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Crystal Craft
-        description: ''
-        percent: 100
-        icon: diamond
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -122,25 +86,21 @@ awards:
   - title: Honor Student Award
     date: '2023-05-02'
     awarder: American Oil Chemists' Society (AOCS)
-    icon: assets/media/icons/aocs_logo.jpeg
     summary: The Honored Student Award acknowledges Jingnan's exceptional readiness for a career in the fats and oils field, encompassing various aspects such as research, academic coursework, publications, and personal experience.
       
   - title: Student Award of Travel Grant
     date: '2022-04-30'
     awarder: American Oil Chemists' Society (AOCS)
-    icon: assets/media/icons/aocs_logo.jpeg
     summary: The Student Travel Grant assists Jingnan in presenting her work at the AOCS Annual Meeting and encourages Jingnan's participation in the Lipid Oxidation and Quality Division and Society, fostering collaboration and knowledge advancement.
 
   - title: Holland Scholarship
     date: '2016-05-01'
     awarder: Dutch Ministry of Education
-    icon: assets/media/icons/HS_logo.jpg
     summary: 5000 EURO scholarship. 
 
   - title: Cargill Global Scholarship
     date: '2013-06-01'
     awarder: Cargill & Institute of International Education (IIE)
-    icon: assets/media/icons/CGSP_logo.jpg
     summary: 1,250 USD per year (2013 – 2016). Included a 2-year mentorship program and leadership training workshop in Shanghai, China, and at Cargill’s global headquarters in Minneapolis, USA.
      
 ---
