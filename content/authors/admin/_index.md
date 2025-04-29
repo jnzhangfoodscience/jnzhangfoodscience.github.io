@@ -63,7 +63,7 @@ work:
   - position: Researcher
     company_name: Huazhong Agricultural University 
     company_url: https://en.hzau.edu.cn/
-    company_logo: assets/media/icons/hzau_logo.svg
+    company_logo: media/hzau_logo.svg
     date_start: 2024-04-10
     date_end: null
     button:
@@ -73,7 +73,7 @@ work:
   - position: Postdoctoral Researcher
     company_name: Chalmers University of Technology 
     company_url: https://www.chalmers.se/en/
-    company_logo: assets/media/icons/chalmers_logo.svg
+    company_logo: media/chalmers_logo.svg
     date_start: 2023-06-15
     date_end: 2024-04-09
       
