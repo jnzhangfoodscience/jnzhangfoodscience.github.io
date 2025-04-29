@@ -1,11 +1,14 @@
 ---
 title: 'Talks'
+summary: My talks
 date: 2025-04-29
 type: landing
 
-design:
-  # Section spacing
-  spacing: '5rem'
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
 # Page sections
 sections:
@@ -18,5 +21,5 @@ sections:
     design:
       view: article-grid
       fill_image: true
-      columns: 3
+      columns: 2
 ---
