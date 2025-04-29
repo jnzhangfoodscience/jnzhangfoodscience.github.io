@@ -19,10 +19,6 @@ sections:
       is_education_first: false
       css_class: container
 
-  - block: spacer
-    design:
-      css_class: border-t border-gray-300 my-8
-
   - block: resume-awards
     content:
       title: Awards
