@@ -22,5 +22,7 @@ sections:
     content:
       title: Awards
       username: admin
+    design:
+      css_class: container
       
 ---

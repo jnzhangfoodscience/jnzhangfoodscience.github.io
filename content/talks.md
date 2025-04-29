@@ -21,5 +21,5 @@ sections:
     design:
       view: article-grid
       fill_image: true
-      columns: 2
+      columns: 1
 ---
