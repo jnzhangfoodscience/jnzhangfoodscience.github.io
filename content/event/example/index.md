@@ -1,7 +1,7 @@
 ---
 title: TBD
 
-event: null
+event: Information will be provided later. 
 event_url: null
 
 location: null
