@@ -13,8 +13,8 @@ main:
   - name: Talks
     url: talks/
     weight: 12
-  - name: Experience
-    url: experience/
+  - name: Achievements
+    url: achievements/
     weight: 13
   - name: Projects
     url: projects/
